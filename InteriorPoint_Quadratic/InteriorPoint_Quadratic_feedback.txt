@@ -1,0 +1,77 @@
+04/02/18 20:34
+
+Problems 1-2 (25 points):
+NotImplementedError: Problems 1 and 2 Incomplete.
+
+Problem 3 (10 points):
+NotImplementedError: Problem 3 Incomplete
+
+Problem 4 (10 points):
+NotImplementedError: Problem 4 Incomplete
+
+Code Quality (5 points):
+Code can be improved for qInteriorPoint()
+Score += 0
+
+Total score: 0/50 = 0.0%
+
+-------------------------------------------------------------------------------
+
+04/04/18 16:58
+
+Problems 1-2 (25 points):
+NotImplementedError: Problems 1 and 2 Incomplete.
+
+Problem 3 (10 points):
+NotImplementedError: Problem 3 Incomplete
+
+Problem 4 (10 points):
+NotImplementedError: Problem 4 Incomplete
+
+Code Quality (5 points):
+Code can be improved for qInteriorPoint()
+Score += 0
+
+Total score: 0/50 = 0.0%
+
+-------------------------------------------------------------------------------
+
+04/04/18 23:14
+
+Problems 1-2 (25 points):
+NotImplementedError: Problems 1 and 2 Incomplete.
+
+Problem 3 (10 points):
+NotImplementedError: Problem 3 Incomplete
+
+Problem 4 (10 points):
+NotImplementedError: Problem 4 Incomplete
+
+Code Quality (5 points):
+Code can be improved for qInteriorPoint()
+Score += 0
+
+Total score: 0/50 = 0.0%
+
+-------------------------------------------------------------------------------
+
+04/05/18 09:13
+
+Problems 1-2 (25 points):
+Score += 25
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+

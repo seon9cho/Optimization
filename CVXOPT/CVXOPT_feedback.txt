@@ -1,0 +1,242 @@
+03/20/18 10:07
+
+Problem 1 (5 points):
+NotImplementedError: Problem 1 Incomplete
+
+Problem 2 (5 points):
+NotImplementedError: Problem 2 Incomplete
+
+Problem 3 (5 points):
+NotImplementedError: Problem 3 Incomplete
+
+Problem 4 (5 points):
+NotImplementedError: Problem 4 Incomplete
+
+Problem 5 (10 points):
+NotImplementedError: Problem 5 Incomplete
+
+Problem 6 (15 points):
+NotImplementedError: Problem 6 Incomplete
+
+Code Quality (5 points):
+Code can be improved for l1Min()
+Score += 0
+
+Total score: 0/50 = 0.0%
+
+-------------------------------------------------------------------------------
+
+03/23/18 09:10
+
+Problem 1 (5 points):
+NotImplementedError: Problem 1 Incomplete
+
+Problem 2 (5 points):
+NotImplementedError: Problem 2 Incomplete
+
+Problem 3 (5 points):
+NotImplementedError: Problem 3 Incomplete
+
+Problem 4 (5 points):
+NotImplementedError: Problem 4 Incomplete
+
+Problem 5 (10 points):
+NotImplementedError: Problem 5 Incomplete
+
+Problem 6 (15 points):
+NotImplementedError: Problem 6 Incomplete
+
+Code Quality (5 points):
+Code can be improved for l2Min()
+Score += 0
+
+Total score: 0/50 = 0.0%
+
+-------------------------------------------------------------------------------
+
+03/24/18 22:07
+
+Problem 1 (5 points):
+Incorrect optimizer
+	Correct response: [-0.   1.5  0. ]
+	Student response: [-1.15e-09]
+[ 1.50e+00]
+[ 6.95e-11]
+
+Score += 2
+
+Problem 2 (5 points):
+Incorrect optimizer
+	Correct response: [ 0.1   -0.147  0.32   0.906 -0.542]
+	Student response: [ 1.00e-01]
+[-1.47e-01]
+[ 3.20e-01]
+[ 9.06e-01]
+[-5.42e-01]
+
+	For A =
+[[4.695 3.452 4.523 2.794 3.863]
+ [2.197 4.901 3.988 0.317 0.588]
+ [0.204 1.62  4.214 0.95  2.824]
+ [0.875 0.174 4.007 3.754 2.902]
+ [4.876 1.74  2.803 0.764 0.15 ]],
+
+b =
+[1.849 0.746 0.46  3.173 1.742]
+
+Incorrect optimizer
+	Correct response: [ 0.424 -0.     0.     0.434  0.    -0.114  0.    -0.166  0.287 -0.   ]
+	Student response: [ 4.24e-01]
+[-7.18e-10]
+[ 1.18e-09]
+[ 4.34e-01]
+[ 3.88e-10]
+[-1.14e-01]
+[ 4.28e-11]
+[-1.66e-01]
+[ 2.87e-01]
+[-6.67e-11]
+
+	For A =
+[[3.882 1.484 1.983 3.23  2.541 2.124 3.291 1.461 1.606 1.355]
+ [0.924 2.718 3.145 4.087 1.525 4.678 4.144 0.375 0.855 2.38 ]
+ [3.112 0.243 3.908 2.631 3.711 2.539 2.086 0.442 3.727 4.77 ]
+ [3.286 1.142 2.898 4.367 1.499 3.915 2.07  3.616 4.586 4.892]
+ [2.656 1.66  2.686 0.103 3.132 4.915 3.533 2.969 0.332 3.633]],
+
+b =
+[3.022 1.812 3.165 3.554 0.212]
+
+Score += 2
+
+Problem 3 (5 points):
+Incorrect optimizer
+	Correct response: [ 5.  2. -0.  2. -0.  4.]
+	Student response: [ 5.00e+00]
+[ 2.00e+00]
+[-7.03e-09]
+[ 2.00e+00]
+[-5.45e-09]
+[ 4.00e+00]
+
+Score += 2
+
+Problem 4 (5 points):
+Incorrect optimizer
+	Correct response: [-1.5  1.  -0.5]
+	Student response: [-1.50e+00]
+[ 1.00e+00]
+[-5.00e-01]
+
+Score += 2
+
+Problem 5 (10 points):
+Incorrect optimizer
+	Correct response: [-0.678  1.84  -0.417  0.754 -0.805]
+	Student response: [-6.78e-01]
+[ 1.84e+00]
+[-4.17e-01]
+[ 7.54e-01]
+[-8.05e-01]
+
+	A =
+[[0.497 0.62  3.491 3.32  1.577]
+ [3.03  2.759 1.928 2.39  4.761]
+ [3.725 4.442 4.826 0.611 0.678]
+ [1.884 2.116 1.375 3.134 1.916]
+ [3.75  3.933 3.687 2.121 4.702]],
+
+	b =
+[0.586 0.188 3.551 2.864 0.972]
+
+Incorrect optimizer
+	Correct response: [ 0.687  0.251 -0.507 -0.363  0.149 -0.634  0.982 -0.144 -0.03   0.513]
+	Student response: [ 6.87e-01]
+[ 2.51e-01]
+[-5.07e-01]
+[-3.63e-01]
+[ 1.49e-01]
+[-6.34e-01]
+[ 9.82e-01]
+[-1.44e-01]
+[-2.95e-02]
+[ 5.13e-01]
+
+	A =
+[[3.448 2.947 2.957 4.34  2.557 2.723 0.269 2.657 3.709 4.14 ]
+ [2.634 0.338 1.809 2.562 1.453 0.412 2.715 0.199 4.309 4.505]
+ [1.435 0.241 4.189 1.781 0.179 2.626 3.313 1.117 4.75  2.995]
+ [2.832 4.325 4.289 0.123 0.148 4.438 3.166 4.404 1.277 0.415]
+ [1.001 4.595 3.558 1.99  2.338 3.415 2.774 1.024 4.923 4.413]],
+
+	b =
+[0.589 4.827 1.129 0.671 2.197]
+
+Score += 4
+
+Problem 6 (15 points):
+Incorrect optimizer
+	Correct response: [  0.   0.  75.  90.   0.   0. 140.   0.   0.   0.   0.  60.   0. 154.
+  58.   0.   0.  98.   0.   0. 113.]
+	Student response: [ 2.94e-08]
+[ 1.26e-07]
+[ 7.50e+01]
+[ 9.00e+01]
+[ 2.44e-07]
+[ 4.77e-07]
+[ 1.40e+02]
+[ 6.94e-07]
+[ 1.24e-06]
+[ 3.52e-08]
+[ 2.64e-08]
+[ 6.00e+01]
+[ 1.84e-07]
+[ 1.54e+02]
+[ 5.80e+01]
+[ 5.97e-08]
+[ 6.81e-08]
+[ 9.80e+01]
+[ 3.27e-08]
+[ 2.25e-08]
+[ 1.13e+02]
+
+Score += 6
+
+Code Quality (5 points):
+comments and comment out your print statements
+Score += 3
+
+Total score: 21/50 = 42.0%
+
+-------------------------------------------------------------------------------
+
+03/26/18 15:04
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (5 points):
+Score += 5
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (15 points):
+Score += 15
+
+Code Quality (5 points):
+comment your code, also comment out your pring statements
+Score += 3
+
+Total score: 48/50 = 96.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+

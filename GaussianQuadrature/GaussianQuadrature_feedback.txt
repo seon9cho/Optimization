@@ -1,0 +1,124 @@
+01/26/18 16:18
+
+Problem 1 (5 points):
+NotImplementedError: Problem 1 Incomplete
+
+Problem 2 (10 points):
+NotImplementedError: Problem 1 Incomplete
+
+Problem 3 (5 points):
+NotImplementedError: Problem 1 Incomplete
+
+Problem 4 (5 points):
+NotImplementedError: Problem 1 Incomplete
+
+Problem 5 (10 points):
+NotImplementedError: Problem 5 Incomplete
+
+Problem 6 (10 points):
+NotImplementedError: Problem 1 Incomplete
+
+Code Quality (5 points):
+Code can be improved for prob5()
+Score += 0
+
+Total score: 0/50 = 0.0%
+
+-------------------------------------------------------------------------------
+
+01/30/18 17:18
+
+Problem 1 (5 points):
+NotImplementedError: Problem 1 Incomplete
+
+Problem 2 (10 points):
+NotImplementedError: Problem 1 Incomplete
+
+Problem 3 (5 points):
+NotImplementedError: Problem 1 Incomplete
+
+Problem 4 (5 points):
+NotImplementedError: Problem 1 Incomplete
+
+Problem 5 (10 points):
+NotImplementedError: Problem 5 Incomplete
+
+Problem 6 (10 points):
+NotImplementedError: Problem 1 Incomplete
+
+Code Quality (5 points):
+Code can be improved for prob5()
+Score += 0
+
+Total score: 0/50 = 0.0%
+
+-------------------------------------------------------------------------------
+
+01/31/18 16:53
+
+Problem 1 (5 points):
+NotImplementedError: Problem 1 Incomplete
+
+Problem 2 (10 points):
+NotImplementedError: Problem 1 Incomplete
+
+Problem 3 (5 points):
+NotImplementedError: Problem 1 Incomplete
+
+Problem 4 (5 points):
+NotImplementedError: Problem 1 Incomplete
+
+Problem 5 (10 points):
+NotImplementedError: Problem 5 Incomplete
+
+Problem 6 (10 points):
+NotImplementedError: Problem 1 Incomplete
+
+Code Quality (5 points):
+Code can be improved for prob5()
+Score += 0
+
+Total score: 0/50 = 0.0%
+
+-------------------------------------------------------------------------------
+
+02/01/18 09:36
+
+Problem 1 (5 points):
+Score += 5
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (5 points):
+Score += 5
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (10 points):
+Score += 10
+
+Problem 6 (10 points):
+GaussianQuadrature.integrate2d() failed for f(x) = f(x,y) = x^2 * y^2 on the domain [-1,2]x[-3,4] with 30 points using the legendre polynomials
+	Correct response: 91
+	Student response: 149.33333333333317
+GaussianQuadrature.integrate2d() failed for f(x) = f(x,y) = x^2 * y^2 on the domain [-1,2]x[-3,4] with 30 points using the chebyshev polynomials
+	Correct response: 91
+	Student response: 150.0
+GaussianQuadrature.integrate2d() failed for f(x) = f(x,y) = sin(x)cos(y) on the domain [-5,6]x[-7,8] with 30 points using the legendre polynomials
+	Correct response: -1.11376562522167
+	Student response: -9.302454639925628e-15
+GaussianQuadrature.integrate2d() failed for f(x) = f(x,y) = sin(x)cos(y) on the domain [-5,6]x[-7,8] with 30 points using the chebyshev polynomials
+	Correct response: -1.0
+	Student response: 0.0
+Score += 2
+
+Code Quality (5 points):
+Don't forget to comment your code.
+Score += 4
+
+Total score: 41/50 = 82.0%
+
+-------------------------------------------------------------------------------
+

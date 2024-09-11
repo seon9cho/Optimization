@@ -1,0 +1,80 @@
+02/16/18 16:13
+
+Problem 1 (10 points):
+NotImplementedError: Problem 1 Incomplete
+
+Problem 2 (10 points):
+NotImplementedError: Problem 2 Incomplete
+
+Problem 3 (10 points):
+NotImplementedError: Problem 3 Incomplete
+
+Problem 4 (5 points):
+NotImplementedError: Problem 4 Incomplete
+
+Problem 5 (10 points):
+NotImplementedError: Problem 5 Incomplete
+
+Code Quality (5 points):
+Code can be improved for bfgs()
+Score += 0
+
+Total score: 0/50 = 0.0%
+
+-------------------------------------------------------------------------------
+
+02/21/18 16:38
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Axis labels
+Score += 9
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (10 points):
+Axis labels.
+Score += 9
+
+Code Quality (5 points):
+Don't forget comments.
+Score += 4
+
+Total score: 47/50 = 94.0%
+
+Great job!
+
+-------------------------------------------------------------------------------
+
+02/22/18 09:27
+
+Problem 1 (10 points):
+Score += 10
+
+Problem 2 (10 points):
+Score += 10
+
+Problem 3 (10 points):
+Score += 10
+
+Problem 4 (5 points):
+Score += 5
+
+Problem 5 (10 points):
+Score += 10
+
+Code Quality (5 points):
+Score += 5
+
+Total score: 50/50 = 100.0%
+
+Excellent!
+
+-------------------------------------------------------------------------------
+
